@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#menu {
+    border: 1px solid red;
+    height: 16px;
+    width: 680px;
+    background-color: #0e74b2;
+    display: inline-block;
+}
+
+#menu img{
+    height: 12px;
+    display: 
+    margin-top: 2px;
+}
+#menu .icone1{
+    margin-left: 5px;
+    
+    
+    
+}
+
+#menu .menu_txt{
+    color: #fff;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+#menu .icone2 {
+    margin-left: 500px;
+    
+}*/
